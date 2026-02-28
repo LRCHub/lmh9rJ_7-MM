@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ロックンロール",
+  "base_artist": "くるり",
+  "createdAt": "2026-02-28T14:09:07.151199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール feat.鏡音レン",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/01_グッバイ、ロックンロール_feat.鏡音レン_Neru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックンロール",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_ロックンロール_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock 'N' Roll Chainsaw [ロックンロール・チェーンソー]",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/03_Rock_'N'_Roll_Chainsaw_[ロックンロール・チェーンソー]_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール",
+      "artist": "Neru; 鏡音レン",
+      "has_synced": true,
+      "path": "select/04_グッバイ、ロックンロール_Neru;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロックンロール・デイドリーム",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/05_ロックンロール・デイドリーム_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロックンロール・ウィドウ",
+      "artist": "山口百恵",
+      "has_synced": true,
+      "path": "select/06_ロックンロール・ウィドウ_山口百恵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロックンロール・ウィドウ",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/07_ロックンロール・ウィドウ_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロックンロール・デイドリーム",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/08_ロックンロール・デイドリーム_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グッバイ・ロックンロール",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/09_グッバイ・ロックンロール_Neru_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロックンロール?ウィドウ (Rock N' Roll Widow)",
+      "artist": "山口百惠",
+      "has_synced": true,
+      "path": "select/10_ロックンロール_ウィドウ_(Rock_N'_Roll_Widow)_山口百惠.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロックンロール・ウィドウ",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": true,
+      "path": "select/11_ロックンロール・ウィドウ_Momoe_Yamaguchi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/12_グッバイ、ロックンロール_Neru_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロックンロール",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/13_ロックンロール_くるり.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロックンロール イズ ノットデッド - Rock'n'Roll Is Not Dead",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/14_ロックンロール_イズ_ノットデッド_-_Rock'n'Roll_Is_Not_Dead_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ロックンロール",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/15_ロックンロール_くるり.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ロックンロール・ハネムーン",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/16_ロックンロール・ハネムーン_くるり.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "グッバイ、ロックンロール",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/17_グッバイ、ロックンロール_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ロックンロール・ウィドウ",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": false,
+      "path": "select/18_ロックンロール・ウィドウ_Momoe_Yamaguchi.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ロックンロール・ウィドウ(オリジナル・カラオケ)",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": false,
+      "path": "select/19_ロックンロール・ウィドウ(オリジナル・カラオケ)_Momoe_Yamaguchi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロール",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロール_くるり.txt"
+    }
+  ]
+}
